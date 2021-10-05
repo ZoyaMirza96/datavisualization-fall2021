@@ -28,5 +28,7 @@
 
 
 ## __Quality:__
-### - 
+### - -	4/5; the reporter did a good job of structuring their written argument and presenting substantial evidence to support their claims. Citing Jill Ramírez’s concerns about how health authorities need to “work hard to gain the trust of communities of color” was an extremely valid point that has been overwhelmingly overlooked by mainstream coverage on the issue. The reporter hyperlinked the piece to several expert sources and interviewed a good variety of people to comment on the issue of vaccine inequity.
+
+## __
 
