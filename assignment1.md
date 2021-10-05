@@ -31,9 +31,11 @@
 ### -	4/5; the reporter did a good job of structuring their written argument and presenting substantial evidence to support their claims. Citing Jill Ramírez’s concerns about how health authorities need to “work hard to gain the trust of communities of color” was an extremely valid point that has been overwhelmingly overlooked by mainstream coverage on the issue. The reporter hyperlinked the piece to several expert sources and interviewed a good variety of people to comment on the issue of vaccine inequity.
 
 ## __Type and Color:__
-### a) Type: 3/5; the maps representing the different states in Texas could've been zoomed in further to represent the data better. The font size used for the data visualization could have also been increased.
+### a) Type: 3/5; the maps representing the different cities in Texas could've been zoomed in further to represent the data better. The font size used for the data visualization could have also been increased.
 ### b) Color: 4/5; the color scale was used effectively to demonstrate the distinction in vaccine access for areas with high populations of White communities versus areas with high populations of communities of color.
 
 ## __Creativity:__
-### 
+### - 3/5; -	though the map was a good visual aid to demonstrate vaccine inequity across different cities in Texas, it was the only data visualization present in the entire body of the article. Perhaps if the map was more interactive, it would’ve allowed readers to explore the makeup of the area in question in more detail, that is, observe whether vaccine sites were the only health and welfare component lacking in the region, or whether there was an overall absence of health care facilities etc.
+### -	A good example of an interactive map used to display data collected is in this piece by Erin Richards called: [Lessons Lost](https://projects.jsonline.com/news/2018/10/5/high-student-turnover-in-milwaukee-stalls-achievement-despite-reforms.html)
+
 
