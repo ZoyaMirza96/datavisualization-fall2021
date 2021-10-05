@@ -20,5 +20,13 @@
 ### b)	3/5 
 ### -	Most efficient way to read the data visualization was to observe and analyze the vaccine site distribution in relation to the demographic makeup of each county in isolation. For example, in the map representing San Antonio, it is evident that most vaccine sites are centered around areas with a high population density of white people. Some sites are even located less than a mile away from one another, according to the scale shown, whereas areas with a high population density of communities of color have a vaccine site located at least 10 miles away.
 ### -	Perhaps the data would be easier to assess if the map had an interactive element to it that allowed the reader to zoom in and explore the area being displayed. For example, this addition would have demonstrated whether there was only a lack of vaccine sites in areas with a high population density of communities of color, or whether there was also a lack of healthcare facilities available. Additionally, if the map displayed average salary earned in the area as well, that too would be able to further highlight the gap between the varying levels of access to vaccine and healthcare across different communities.
-### c) 
+### c) 3/5 -- only because the scale displayed the level of “whiteness” within a particular area, and some Hispanic or and Black populations might appear as white in passing, which could cause some disparity in the scale used to identify the data.)
+### - The map of Dallas seems to contrast what the reporter is stating as the areas with the highest concentrations of white people seem to have the lowest number of vaccine sites.
+### - Reporter should check their data with research and statistics shared by the national vaccine finder, at vaccines.gov, in addition to the CDC’s COVID-19 data base on Texas, at dshs.texas.gov. 
+### -	Yes; the source cited is the Texas Department of State Health Services, Census Bureau.
+### -	The purpose of the data visualization made sense in context as it demonstrated the disparity in access to vaccine sites between areas concentrated with white populations versus areas with communities of color.
+
+
+## __Quality:__
+### - 
 
