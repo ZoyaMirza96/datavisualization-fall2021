@@ -13,7 +13,7 @@
 
 ## *[Advocates worry vaccines will be out of reach for Black and Hispanic neighborhoods devastated by COVID-19](https://www.texastribune.org/2021/01/09/texas-coronavirus-vaccine-racial-inequality/?utm_source=articleshare&utm_medium=social)*
 
-### __Clarity and Accuracy:__
+## __Clarity and Accuracy:__
 ### a)	5/5: 
 ### - It is evident from the very onset of the piece that the reporter is speaking about vaccine inequity and the disparity in access to healthcare between the white population versus communities of color.
 ### -	Yes; though the exact figures and levels of disproportionate vaccine access wasn’t apparent, the thesis of the piece was transparently displayed. 
