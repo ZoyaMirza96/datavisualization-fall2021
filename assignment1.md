@@ -31,7 +31,7 @@
 ### -	4/5; the reporter did a good job of structuring their written argument and presenting substantial evidence to support their claims. Citing Jill Ramírez’s concerns about how health authorities need to “work hard to gain the trust of communities of color” was an extremely valid point that has been overwhelmingly overlooked by mainstream coverage on the issue. The reporter hyperlinked the piece to several expert sources and interviewed a good variety of people to comment on the issue of vaccine inequity.
 
 ## __Type and Color:__
-### a) Type: 3/5; the maps representing the different cities in Texas could've been zoomed in further to represent the data better. The font size used for the data visualization could have also been increased.
+### a) Type: 3/5; the maps representing the different counties in Texas could've been zoomed in further to represent the data better. The font size used for the data visualization could have also been increased.
 ### b) Color: 4/5; the color scale was used effectively to demonstrate the distinction in vaccine access for areas with high populations of White communities versus areas with high populations of communities of color.
 
 ## __Creativity:__
