@@ -36,6 +36,6 @@
 
 ## __Creativity:__
 ### - 3/5; -	though the map was a good visual aid to demonstrate vaccine inequity across different cities in Texas, it was the only data visualization present in the entire body of the article. Perhaps if the map was more interactive, it would’ve allowed readers to explore the makeup of the area in question in more detail, that is, observe whether vaccine sites were the only health and welfare component lacking in the region, or whether there was an overall absence of health care facilities etc.
-### -	A good example of an interactive map used to display data collected is in this piece by Erin Richards called: [Lessons Lost](https://projects.jsonline.com/news/2018/10/5/high-student-turnover-in-milwaukee-stalls-achievement-despite-reforms.html)
+### -	A good example of an interactive map used to display data collected is in this piece by Erin Richards called: [Lessons Lost](https://projects.jsonline.com/news/2018/10/5/high-student-turnover-in-milwaukee-stalls-achievement-despite-reforms.html) in the Journal Sentinel. 
 
 
