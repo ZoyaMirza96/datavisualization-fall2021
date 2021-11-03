@@ -28,6 +28,6 @@
 
 ### HEADLINE: Vaccination Rates Observed to be Increasing Amongst the Black Community in Washington D.C. 
 
-### NUT GRAF: Studies conducted by the CDC in the past year have revealed a [disproportionate rate](https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/racial-ethnic-disparities/disparities-deaths.html) of COVID-19 deaths among some racial and ethnic minority groups in the United States. A medical survey that focused on certain cities and states demonstrated that the outbreak of the Delta variant had led to a stark incline in virus contractions in Black and Hispanic American communities versus others. A demographic evaluation showed that, overall, these communities had less access to healthcare and vaccination sites. 
+### NUT GRAF: Studies conducted by the CDC in the past year have revealed a [disproportionate rate](https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/racial-ethnic-disparities/disparities-deaths.html) of COVID-19 deaths among some racial and ethnic minority groups in the United States. A medical survey that focused on certain cities and states demonstrated that the outbreak of the Delta variant had led to a stark incline in virus contractions in Black and Hispanic American communities versus others. A demographic evaluation showed that, overall, these communities had less access to vaccines and general healthcare facilities, hence, leading to low vaccination rates.
 
 
