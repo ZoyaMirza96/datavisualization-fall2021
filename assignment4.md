@@ -18,8 +18,10 @@
 ### - Data was downloaded as a CSV file
 ### - Dataset was copied onto another sheet to keep track of any changes made
 ### - The "AGE_GROUP" column was filtered in ascending order to arrange age groups beginning from "16-19" all the way to "65+"
-### - The 
-### -
-### -
+### - The "RACE" column was filtered in ascending order to arrange data representing "American Indian or Alaska Native" at the top and "Native Hawaiian or Other Pacficic Islander" at the bottom
+### - The "STATUS" column was filtered to sort "Partially Vaccinated" and "Fully Vaccinated" individuals, and omit blank spaces and missing information in teh dataset
+### - Filtered the "RACE" column again to combine both "Partially Vaccinated" and "Fully Vaccinated" individuals corresponding to the same racial group. For example, this showed vaccinated individuals for "American Indian or Alaska Native" at the top and vaccinated individuals for "Native Hawaiian or Other Pacficic Islander" at the bottom
+### - Shifted this dorted data onto a Pivot Table 
+### - 
 
 
