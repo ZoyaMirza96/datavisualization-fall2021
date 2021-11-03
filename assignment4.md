@@ -24,6 +24,10 @@
 ### - Opened up a blank sheet and shifted this sorted data onto a Pivot Table 
 ### - Used the sum category to calculate percentages and figures to answer the questions I was asking. Fo example, total number of vaccines administered per age group, total number of vaccines administred in relation to a specific racial group.
 
-## 
+## Sample Headline and Nut Graf:
+
+### HEADLINE: Vaccination Rates Observed to be Increasing Amongst the Black Community in Washington D.C. 
+
+### NUT GRAF: 
 
 
