@@ -1,6 +1,6 @@
 # __Assignment 4: Interview a Dataset__
 
-### A link to the dataset: [DC COVID-19 VACCINE ADMINISTRATION](https://opendata.dc.gov/datasets/dc-covid-19-vaccine-administration/explore)
+### A link to the dataset: [DC COVID-19 VACCINE DEMOGRAPHICS](https://opendata.dc.gov/datasets/dc-covid-19-vaccine-demographics/explore)
 
 ### Questions and Answers:
 
