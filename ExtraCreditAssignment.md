@@ -1,5 +1,5 @@
 ### Link to Story: 
-### [Coronavirus Drug and Treatment Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)
+### [New York Times: Coronavirus Drug and Treatment Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)
 
 ### Link to Data Sources:  
 ### [COVID-19 Treatment Guidelines from the National Institutes of Health](https://www.covid19treatmentguidelines.nih.gov/about-the-guidelines/whats-new/)
